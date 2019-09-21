@@ -1,0 +1,8 @@
+Instruction? Put a page table for process 0 into physical frame 0!
+Mapped virtual address 0 (page 0) for process 0 into physical frame 1!
+Instruction? Put a page table for process 1 into physical frame 2!
+Mapped virtual address 0 (page 0) for process 1 into physical frame 3!
+Instruction? Storing the value of 255 into virtual address 12 of process 0!
+Instruction? Storing the value of 37 into virtual address 2 of process 1!
+Instruction? The value stored in virtual address 12 of process 0 is 255!
+Instruction? The value stored in virtual address 2 of process 1 is 37!

@@ -1,0 +1,13 @@
+Instruction? Put a page table for process 0 into physical frame 0!
+Mapped virtual address 0 (page 0) for process 0 into physical frame 1!
+Instruction? Put a page table for process 1 into physical frame 2!
+Mapped virtual address 0 (page 0) for process 1 into physical frame 3!
+Instruction? Storing the value of 69 into virtual address 12 of process 0!
+Instruction? Sending process 0's virtual page 0 to disk!
+Put a page table for process 2 into physical frame 1!
+Sending page table for process 1 to disk!
+Mapped virtual address 0 (page 0) for process 2 into physical frame 2!
+Virtual page 0 already has these permissions!
+Instruction? Sending process 1's virtual page 0 to disk!
+Loaded virtual page 0 for process 0 from disk into physical frame 3!
+The value stored in virtual address 12 of process 0 is 69!

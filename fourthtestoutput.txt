@@ -1,0 +1,7 @@
+Instruction? Put a page table for process 0 into physical frame 0!
+Mapped virtual address 0 (page 0) for process 0 into physical frame 1!
+Instruction? Virtual page 0 for process 1 has not been allocated yet!
+Instruction? This virtual address isn't writeable!
+Instruction? Updated the permissions on virtual page 0!
+Instruction? Virtual page 0 already has these permissions!
+Instruction? Virtual page 0 for process 1 has not been allocated yet!
